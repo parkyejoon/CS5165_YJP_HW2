@@ -1,8 +1,8 @@
 # CS5165_YJP_HW2
 
 The output files will be saved at home\output as a result.txt
-
 Output example
+
 ---------------------------------------------------------------------
 All text files at the location: /home/data is ['1.txt', '2.txt', '3.txt']
 ---------------------------------------------------------------------
