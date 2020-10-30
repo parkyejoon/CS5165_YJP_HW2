@@ -21,9 +21,7 @@ with download entire file from github.
 
 without download entire file from github
 ---------------------------------------
-1. pull the image from dockerhub
-   > docker pull yejoonpark/hw2_yjp:latest
-2. run the image
+1. just enter the command below!
    > docker run -p 80:80 yejoonpark/hw2_yjp:latest
 ---------------------------------------
 
