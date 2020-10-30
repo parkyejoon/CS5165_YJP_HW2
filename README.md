@@ -21,7 +21,7 @@ with download entire file from github.
 
 without download entire file from github
 ---------------------------------------
-1. just enter the command below!
+1. just enter the command below as an admin!
    > docker run -p 80:80 yejoonpark/hw2_yjp:latest
 ---------------------------------------
 
