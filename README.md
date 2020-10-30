@@ -1,4 +1,6 @@
 # CS5165_YJP_HW2
+
+with download entire file from github.
 ---------------------------------------
 1. add entire folder "hw2_yjp" to the 
    > C:\Windows\System32\hw2_yjp
@@ -15,8 +17,17 @@
    > run the image by container
 
 6. the output will be saved and printed.
+---------------------------------------
 
-7. it will look like below.
+without download entire file from github
+---------------------------------------
+1. pull the image from dockerhub
+   > docker pull yejoonpark/hw2_yjp:latest
+2. run the image
+   > docker run -p 80:80 yejoonpark/hw2_yjp:latest
+---------------------------------------
+
+the output will look like below
 ```
 PS C:\WINDOWS\system32\hw2_yjp> docker run -p 80:80 hw2_yjp:1.0
 ---------------------------------------------------------------------
